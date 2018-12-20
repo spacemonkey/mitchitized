@@ -1,0 +1,26 @@
+{
+  "name": "mitchitized",
+  "version": "0.0.1",
+  "description": "A personal card for Mitch Pirtle (@mitchitized)",
+  "main": "index.js",
+  "bin": {
+    "mitchitized": "./bin/card.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spacemonkey/mitchitized.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: Silly user attempting to test a package that only echoes ASCII text!\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mitch Pirtle <mpirtle@morningconsult.com> (http://about.me/mitchitized)",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.1"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
