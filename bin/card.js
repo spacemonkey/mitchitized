@@ -16,7 +16,7 @@ const options = {
 const data = {
   name: chalk.white('Mitch Pirtle /'),
   handle: chalk.keyword('goldenrod')('mitchitized'),
-  work: chalk.white('Vice President of Engineering at Morning Consult'),
+  work: chalk.white('CTO, Founder, Contributor, Entrepreneur'),
   github: chalk.keyword('goldenrod')('https://github.com/spacemonkey'),
   linkedin: chalk.keyword('goldenrod')('https://linkedin.com/in/mitchpirtle'),
   web: chalk.keyword('goldenrod')('https://about.me/mitchitized'),
