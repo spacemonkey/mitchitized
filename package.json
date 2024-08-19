@@ -14,7 +14,7 @@
     "test": "echo \"Error: Silly user attempting to test a package that only echoes ASCII text!\" && exit 1"
   },
   "keywords": [],
-  "author": "Mitch Pirtle <mitch.pirtle@morningconsult.com> (http://about.me/mitchitized)",
+  "author": "Mitch Pirtle <mitch.pirtle@gmail.com> (http://about.me/mitchitized)",
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0",
