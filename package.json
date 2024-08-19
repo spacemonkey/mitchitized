@@ -1,6 +1,6 @@
 {
   "name": "mitchitized",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A personal card for Mitch Pirtle (@mitchitized)",
   "main": "index.js",
   "bin": {
